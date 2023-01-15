@@ -1,0 +1,43 @@
+{
+  "name": "full-wibsit",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack serve"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@laylazi/bootstrap-rtl": "^4.5.3-1",
+    "@laylazi/bootstrap-rtl-scss": "^4.5.3-1",
+    "@popperjs/core": "^2.11.6",
+    "bootstrap": "^4.5.3",
+    "css-loader": "^6.7.3",
+    "expose-loader": "^4.0.0",
+    "html-loader": "^1.3.2",
+    "html-webpack-plugin": "^5.2.0",
+    "jquery": "^3.5.1",
+    "mini-css-extract-plugin": "^1.2.1",
+    "optimize-css-assets-webpack-plugin": "^5.0.4",
+    "popper.js": "^1.16.1",
+    "webpack": "^5.24.2",
+    "webpack-cli": "^4.5.0",
+    "webpack-dev-server": "^3.11.2"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.2.1",
+    "file-loader": "^6.2.0",
+    "style-loader": "^3.3.1",
+    "webpack-jquery-ui": "^2.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crakr1/arpi.git"
+  },
+  "bugs": {
+    "url": "https://github.com/crakr1/arpi/issues"
+  },
+  "homepage": "https://github.com/crakr1/arpi#readme",
+  "description": ""
+}
